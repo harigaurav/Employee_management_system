@@ -453,24 +453,6 @@ handleFailTask(); // Changes active: false, failed: true
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 👨‍💻 Author
-
-**Your Name**
-
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-
-## 🙏 Acknowledgments
-
-- React.js team for the amazing framework
-- Vite team for the fast build tool
-- TailwindCSS for the utility-first CSS framework
-- All contributors and testers
-
----
 
 **⭐ If you found this project helpful, please give it a star!**
